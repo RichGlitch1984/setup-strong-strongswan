@@ -375,8 +375,8 @@ debug network = yes
 debug state = yes
 debug tunnel = yes
 [lns default]
-ip range = 10.1.0.2-10.1.0.254
-local ip = 10.1.0.1
+ip range = 111.111.111.2-111.111.111.254
+local ip = 111.111.111.1
 require chap = yes
 refuse pap = yes
 require authentication = no
